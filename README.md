@@ -28,10 +28,10 @@ Other Use cases:
    `streamlit run filename.py` (edit the filename.py)
 
 Team members:\
-[Yashovardhan Kanetkar](https://github.com/yash1122-kkg)
+[Yashovardhan Kanetkar](https://github.com/yash1122-kkg)\
 [Dharmraj Patil](https://github.com/dharmraj617)\
 [Vinayak Gatade](https://github.com/VinayakGatade)\
-[Aayush Vadgaonkar](https://github.com/Aayush220503)\
+[Aayush Vadgaonkar](https://github.com/Aayush220503)
 
 
  
